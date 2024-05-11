@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "123e",
+      "firstName": "Manas",
+      "lastName": "Nath",
+      "email": "manasnath437@gmail.com",
+      "dob": "2024-04-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": 5
+    },
+    {
+      "firstName": "Manas",
+      "lastName": "Nath",
+      "email": "manasnath437@gmail.com",
+      "dob": "2024-04-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": 3,
+      "id": "5613"
+    },
+    {
+      "id": "5f90",
+      "firstName": "Manas",
+      "lastName": "Nath",
+      "email": "manasnath437@gmail.com",
+      "dob": "2024-04-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": 3
+    }
+  ]
+}
